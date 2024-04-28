@@ -124,7 +124,6 @@ moviepy
 nekos.py
 openai
 Pillow
-prettytable
 psutil
 psycopg2
 py-tgcalls==0.9.7
