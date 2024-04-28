@@ -136,7 +136,6 @@ pymediainfo
 pySmartDL
 pytube
 pyTelegramBotAPI==3.7.7
-py-tgcalls==0.9.1
 qrcode
 randomstuff.py
 regex
