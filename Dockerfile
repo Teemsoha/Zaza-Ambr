@@ -1,6 +1,6 @@
 FROM kyyex/kyy-userbot:busterv2
 
-RUN git clone https://github.com/asaaqa/Zaza-Ambr.git /root/Zaza-Ambr
+RUN git clone https://github.com/Teemsoha/Zaza-Ambr.git /root/Zaza-Ambr
 
 WORKDIR /root/Zaza-Ambr
 
