@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/asaaqa/Zaza-Ambr",
+  "repository": "https://github.com/Teemsoha/Zaza-Ambr",
   "telegram": "https://t.me/Mlze1bot",
   "success_url": "https://t.me/Mlze1bot",
   "stack": "container",
@@ -45,7 +45,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "12"
+        "version": "15"
       }
     }
   ],"buildpacks": [{
